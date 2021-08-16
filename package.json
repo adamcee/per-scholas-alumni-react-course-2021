@@ -1,0 +1,19 @@
+{
+  "name": "per-scholas-alumni-react-course-2021",
+  "version": "1.0.0",
+  "description": "This contains coursework and other info for the course. It will also be used as a reference and study guide.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamcee/per-scholas-alumni-react-course-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamcee/per-scholas-alumni-react-course-2021/issues"
+  },
+  "homepage": "https://github.com/adamcee/per-scholas-alumni-react-course-2021#readme"
+}
